@@ -1,0 +1,52 @@
+# Geotechnique — Calais
+
+> Geotechnical engineering services in Calais, France.
+
+## Services
+- [Amelioration Sols](https://calais.geotechnique.biz/amelioration-sols/)
+- [Ancrages](https://calais.geotechnique.biz/ancrages/)
+- [Cbr Routier](https://calais.geotechnique.biz/cbr-routier/)
+- [Chaussee Rigide](https://calais.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://calais.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://calais.geotechnique.biz/colonnes-ballastees/)
+- [Confidentialite](https://calais.geotechnique.biz/confidentialite/)
+- [Densite Cone Sable](https://calais.geotechnique.biz/densite-cone-sable/)
+- [Essai Cpt](https://calais.geotechnique.biz/essai-cpt/)
+- [Essais Proctor](https://calais.geotechnique.biz/essais-proctor/)
+- [Excavations](https://calais.geotechnique.biz/excavations/)
+- [Excavations Profondes](https://calais.geotechnique.biz/excavations-profondes/)
+- [Fondations](https://calais.geotechnique.biz/fondations/)
+- [Geotechnique Routiere](https://calais.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://calais.geotechnique.biz/granulometrie/)
+- [Injections](https://calais.geotechnique.biz/injections/)
+- [Investigation](https://calais.geotechnique.biz/investigation/)
+- [Isolation Sismique](https://calais.geotechnique.biz/isolation-sismique/)
+- [Labo In Situ](https://calais.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://calais.geotechnique.biz/laboratoire/)
+- [Limites Atterberg](https://calais.geotechnique.biz/limites-atterberg/)
+- [Liquefaction](https://calais.geotechnique.biz/liquefaction/)
+- [Masw](https://calais.geotechnique.biz/masw/)
+- [Microzonage Sismique](https://calais.geotechnique.biz/microzonage-sismique/)
+- [Murs Soutenement](https://calais.geotechnique.biz/murs-soutenement/)
+- [Permeabilite In Situ](https://calais.geotechnique.biz/permeabilite-in-situ/)
+- [Pieux](https://calais.geotechnique.biz/pieux/)
+- [Puits Inspection](https://calais.geotechnique.biz/puits-inspection/)
+- [Radiers](https://calais.geotechnique.biz/radiers/)
+- [Refraction Sismique](https://calais.geotechnique.biz/refraction-sismique/)
+- [Resistivite](https://calais.geotechnique.biz/resistivite/)
+- [Semelles](https://calais.geotechnique.biz/semelles/)
+- [Sismique](https://calais.geotechnique.biz/sismique/)
+- [Sondages Spt](https://calais.geotechnique.biz/sondages-spt/)
+- [Stabilite Talus](https://calais.geotechnique.biz/stabilite-talus/)
+- [Surveillance Excavations](https://calais.geotechnique.biz/surveillance-excavations/)
+- [Talus](https://calais.geotechnique.biz/talus/)
+- [Triaxial](https://calais.geotechnique.biz/triaxial/)
+- [Tunnels Sol Mou](https://calais.geotechnique.biz/tunnels-sol-mou/)
+- [Vibrocompactage](https://calais.geotechnique.biz/vibrocompactage/)
+
+## Contact
+- Website: https://calais.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Calais, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
